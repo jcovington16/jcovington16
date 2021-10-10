@@ -6,7 +6,7 @@
 ### <div align="center">I'm Joshua, a Full Stack Developer 🧑🏽‍💻</div>  
   
 
--  I’m currently working on finishing my Full Stack Developer Bootcamp @ [devCodeCamp](https://devcodecamp.com)  
+-  I’m currently working on finishing my Full Stack Developer Bootcamp @[devCodeCamp](https://devcodecamp.com)  
   
 
 - I'm focusing heavy on improving my frontend skills  
