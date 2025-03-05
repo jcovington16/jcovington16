@@ -6,13 +6,13 @@
 ### <div align="center">I'm Joshua, a Full Stack Developer 🧑🏽‍💻</div>  
   
 
--  I’m a graduate of the Full Stack Developer Bootcamp @[devCodeCamp](https://devcodecamp.com)  
+-  I’m a graduate of the Full Stack Developer Bootcamp @[devCodeCamp](https://devcodecamp.com)
+
+  
+-  I'm also soon to graduate from Harvard at the Extension School with my masters
   
 
-- I'm focusing heavy on improving my frontend skills  
-  
-
-- ❓ Ask me about anything related to MERN stack and network engineering  
+- I'm focusing heavy on becoming more of an well rounded engineer and level up in my careeer.    
   
 
 - Cool story about me: I used to jump out of perfectly good aircrafts when I was in the Army. Airborne! ✈️  
@@ -42,15 +42,17 @@
 
 ### Backend  
 <div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original.svg" alt="Java" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgres-original-wordmark.svg" alt="PostGres" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />   
 </div>
 
 </td><td valign="top" width="33%">
